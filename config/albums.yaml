@@ -1,0 +1,4 @@
+albums:
+  controller: App\Controller\AlbumsController
+  resource: "../src/Controller/AlbumsController.php"
+  type: annotation
